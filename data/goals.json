@@ -1,0 +1,31 @@
+[
+  {
+    "id": "goal-usmc-1",
+    "title": "Develop Master Lesson File (MLF)",
+    "content": "Create a complete Master Lesson File component (e.g., Lesson Plan or Student Handout) that strictly follows the format and required elements outlined in NAVMC 1553.1A."
+  },
+  {
+    "id": "goal-usmc-2",
+    "title": "Draft Letter of Instruction (LOI)",
+    "content": "Draft a Letter of Instruction (LOI) for a specific training event, ensuring all coordination instructions, administrative details, and logistics are covered in standard Naval letter format."
+  },
+  {
+    "id": "goal-usmc-3",
+    "title": "Analyze T&R Manual Event",
+    "content": "Analyze a specific Training and Readiness (T&R) event to derive the required performance steps, conditions, and standards for instruction."
+  },
+  {
+    "id": "goal-usmc-4",
+    "title": "Create Performance Evaluation Checklist (PECL)",
+    "content": "Design a Performance Evaluation Checklist (PECL) for a practical application event, ensuring straight-forward 'Go/No-Go' criteria based on the T&R standard."
+  },
+  {
+    "id": "006e728e-588b-49d9-b717-37dab9a0d23d",
+    "title": "Draft Training Schedule (Template)",
+    "content": "Create a detailed training schedule for {{COURSE_NAME}} covering the period from {{START_DATE}} to {{END_DATE}}, ensuring all {{MANDATORY_EVENTS}} are included.",
+    "tags": [
+      "admin",
+      "logistics"
+    ]
+  }
+]

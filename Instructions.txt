@@ -1,0 +1,39 @@
+Prompt Library - Walkthrough
+
+How to Run
+
+Start the application by double-clicking `start.bat`.
+
+Or manually via terminal:
+Open a terminal in the project directory: c:\Users\oyola\Desktop\Prompt_Lib_v2.
+Run the application:
+python -m streamlit run app.py
+The application will open in your default browser (usually at http://localhost:8501).
+
+Verification Steps
+
+1. Create Components
+
+Navigate to the sidebar and select each manager to add new items:
+
+Roles: Add a "Senior Python Developer" role.
+Goals: Add a goal like "Write clean, efficient code".
+Context: Add context like "Working on a Streamlit app".
+Output: Add an output format like "Markdown code block".
+
+2. Verify Storage
+
+Check the data/ directory. You should see JSON files created for each category you added items to (e.g., roles.json, goals.json).
+
+3. Assemble a Prompt
+
+Go to the Assembler tab in the sidebar.
+Use the dropdowns to select the components you created.
+Verify that the Live Preview updates with the correct text.
+Copy the code block at the bottom to verify the final output.
+
+4. Edit/Delete
+
+Go back to a manager tab (e.g., Roles).
+Click Edit on card to change the text. Verify the change persists.
+Click Delete to remove an item. Verify it disappears.

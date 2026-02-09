@@ -1,0 +1,22 @@
+[
+    {
+        "id": "context-usmc-1",
+        "title": "Formal Learning Center (FLC)",
+        "content": "This instruction takes place in a Formal Learning Center (FLC) classroom environment. The audience consists of entry-level Marines who require high regimentation and clear, step-by-step instruction."
+    },
+    {
+        "id": "context-usmc-2",
+        "title": "Professional Military Education (PME)",
+        "content": "The setting is a PME course (e.g., Sergeants School). The audience is experienced NCOs. The instruction should facilitate guided discussion, critical thinking, and peer-to-peer learning strategies."
+    },
+    {
+        "id": "context-usmc-3",
+        "title": "Unit Sustainment Training",
+        "content": "Training is conducted at the unit level to sustain proficiency in core METLs (Mission Essential Task Lists). Resources are limited to what is organic to the battalion."
+    },
+    {
+        "id": "context-usmc-4",
+        "title": "MCTIMS Implementation",
+        "content": "The context involves entering or managing data within the Marine Corps Training Information Management System (MCTIMS). Accuracy and data validation are paramount."
+    }
+]

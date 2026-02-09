@@ -1,0 +1,22 @@
+[
+    {
+        "id": "output-usmc-1",
+        "title": "NAVMC 1553.1A LP Format",
+        "content": "Format the output as a partial Lesson Plan following the 4-step process (Introduction, Presentation, Application, Test) as defined in NAVMC 1553.1A."
+    },
+    {
+        "id": "output-usmc-2",
+        "title": "5-Paragraph Order (SMEAC)",
+        "content": "Provide the output in the standard Five Paragraph Order format: Situation, Mission, Execution, Administration and Logistics, Command and Signal."
+    },
+    {
+        "id": "output-usmc-3",
+        "title": "Standard Naval Letter",
+        "content": "Format the response as a Standard Naval Letter, including the proper header, 'From', 'To', 'Subj', 'Ref', and paragraph structure."
+    },
+    {
+        "id": "output-usmc-4",
+        "title": "Learning Objectives (TLO/ELO)",
+        "content": "Output a set of Termainal Learning Objectives (TLO) and Enabling Learning Objectives (ELO) with correctly formatted Condition, Behavior, and Standard statements."
+    }
+]
